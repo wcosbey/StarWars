@@ -1,0 +1,128 @@
+
+
+body {
+    background-image: url("../images/the-bait-house-ben-prepelka.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.jumbotron {
+    background: transparent;
+    margin-bottom: 0px;
+    color: white;
+    padding-bottom: 0px;
+    
+    
+
+}
+
+
+#titleRules {
+    background: transparent;
+    font-family: 'Bangers', cursive;
+    color: black;
+    font-size: 40px;
+    text-shadow: -4px 0 #F3152B, 0 1px #F3152B, 1px 0 #F3152B, 0 -1px #F3152B;
+    padding: 20px 20px 0 20px;
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    color: black;
+    text-align: center;
+    z-index: initial;
+    margin-top: -20px;
+    text-shadow: -4px 0 #F3152B, 0 1px #F3152B, 1px 0 #F3152B, 0 -1px #F3152B;
+}
+
+
+
+#rules {
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    padding:0 20px 20px 20px;
+    margin-bottom: 0px;
+    text-shadow: -4px 0 #F3152B, 0 1px #F3152B, 1px 0 #F3152B, 0 -1px #F3152B;
+}
+
+#panelStyle {
+    background: #E69321;
+    color: black;
+    font-family: 'Bangers', cursive;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+}
+.panel-body {
+    font-size: 24px;
+}
+
+
+
+#images1 {
+    text-align: center;
+    background: transparent;
+    padding: 0;
+    margin: 10px;
+}
+
+#images2 {
+    text-align: center;
+    background: transparent;
+    padding: 0;
+    margin: 10px;
+}
+
+.fishimg {
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.fishimg:hover {
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
+#one {
+    background: #E8AD0D;
+    margin: 15px;
+    height: 10em;
+    width: 15em;
+    padding-left: 39px;
+    padding-right: 39px;
+}
+
+#two {
+    background: #2180B3;
+    margin: 15px;
+    height: 10em;
+    width: 15em;
+    padding-left: 39px;
+    padding-right: 39px;
+}
+
+#three {
+    background: #904FB4;
+    margin: 15px;
+    height: 10em;
+    width: 15em;
+    padding-left: 39px;
+    padding-right: 39px;
+}
+
+#four {
+    background: #A2FF00;
+    margin: 15px;
+    height: 10em;
+    width: 15em;
+    padding-left: 39px;
+    padding-right: 39px;
+}
+
